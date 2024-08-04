@@ -14,4 +14,5 @@
 
       better
 
-      
+   不可以更新已有mod，plugin和serverloader，已经和原文件不同，会导致server的异常
+   
