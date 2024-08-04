@@ -2,6 +2,9 @@
 
 这是一个基于mohist/banner项目的分支
 
+1.20.1fabric-0.15.11
+
+
 以兼容地毯及其扩展，并优化生电服务器的体验
 
 我们实现了地毯 fabric+bukkit/spigot的server
