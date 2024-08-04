@@ -14,7 +14,7 @@
 
       poor          完全不兼容锂，servercore，create,中世纪武器                                      
 
-对bukkit/spigot兼容性     
+对paper/bukkit/spigot兼容性     
 
       better
 
